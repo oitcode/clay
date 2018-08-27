@@ -1,0 +1,27 @@
+DESCRIPTION
+
+This is software code of Clay engineering Pvt Ltd corporate website.
+This package is a dervitive of Wordpress.
+
+
+LISCENCE
+
+This package uses GPL liscense.
+Please see about GPL liscence for more details.
+
+
+REQUIREMENTS
+
+Required
+========
+Active MySql
+Active web server (recommended: Apache)
+
+Recommended
+===========
+Bash
+
+INSTALL
+
+$ bash oinstall.sh
+
